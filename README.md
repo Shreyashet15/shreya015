@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya shet</h1>
-<h3 align="center">undergrad |passionate web developer|interested in cloud computing|designer computing|</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shetshreya01&label=Profile%20views&color=0e75b6&style=flat" alt="shetshreya01" /> </p>
+<h3 align="center">undergrad |passionate web developer|interested in cloud computing|UI/UX designer|</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shetshreya01" alt="shetshreya01" /></a> </p>
 
